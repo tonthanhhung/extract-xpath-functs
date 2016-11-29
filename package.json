@@ -1,0 +1,22 @@
+{
+  "name": "extract-xpath-functs",
+  "version": "1.0.0",
+  "description": "Find all XPath functions used in this document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonthanhhung/extract-xpath-functs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonthanhhung/extract-xpath-functs/issues"
+  },
+  "homepage": "https://github.com/tonthanhhung/extract-xpath-functs#readme",
+  "dependencies": {
+    "byline": "^5.0.0"
+  }
+}
